@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epewoofi.github.io/OZr/sitemap_index.txt
+Sitemap: https://epewoofi.github.io/VIe/sitemap_index.txt
+Sitemap: https://epewoofi.github.io/doB/sitemap_index.txt
+Sitemap: https://epewoofi.github.io/lsi/sitemap_index.txt
